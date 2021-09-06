@@ -9,6 +9,6 @@
  
  ## How to use the project
  * Create a local copy of the repository using **git clone https://github.com/analyst-paramjeet/Automation_scripts.git** 
- * Navigate to the directory and **npm install**
+ * Navigate to the directory and execute **npm install**
  * Download Selenium web-driver from the link **http://chromedriver.storage.googleapis.com/index.html** and replace it with the driver already present in the same directory
  * Use **node <<script_name.js>>** Example- **node complete_flow.js**
