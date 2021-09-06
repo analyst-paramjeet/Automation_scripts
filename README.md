@@ -1,10 +1,10 @@
 # Automation_scripts
  In this project we have two JavaScript Automation Scripts.
  
- ## complete_flow.js
+ #### complete_flow.js
  In this scripts we have automated the complete end to end flow from Logging-in to checkout a particular product.
  
- ## valid_user_check.js
+ #### valid_user_check.js
  In this script we have automated the script to test the Valid users.
  
  ## How to use the project
