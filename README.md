@@ -1,4 +1,4 @@
-# Automation_scripts
+# saucedemo.com automation scripts
  In this project we have two JavaScript Automation Scripts.
  
  #### complete_flow.js
